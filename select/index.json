@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ねてもさめても",
+  "base_artist": "ポルカドットスティングレイ",
+  "createdAt": "2026-03-03T12:11:39.357783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ねてもさめても",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/01_ねてもさめても_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねてもさめても",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_01_ねてもさめても_ポルカドットスティングレイ.txt"
+    }
+  ]
+}
